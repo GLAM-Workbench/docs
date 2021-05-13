@@ -67,6 +67,7 @@ repo_url: https://github.com/GLAM-Workbench/glam-data-list
 * [Federal Election Speeches](https://electionspeeches.moadoph.gov.au/explore) (Museum of Australian Democracy)
 * [Trove Faces API](https://faceapi.herokuapp.com/)
 * [Victorian Heritage API](https://developer.vic.gov.au/index.php?option=com_apiportal&view=apitester&usage=api&tab=tests&apiName=Victorian%20Heritage%20API&apiId=36d97216-53b6-4a5c-8754-8b44b26a5e21&menuId=187)
+* [Gazetteer of Historical Australian Placenames](https://www.tlcmap.org/guides/ghap/#ws) (Time Layered Cultural Map)
 
 ## Other portals providing access to GLAM data
 
